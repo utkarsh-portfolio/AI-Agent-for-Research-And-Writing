@@ -29,7 +29,7 @@ Our agents are designed with memory and role-specific goals:
 The Researcher: Curiosity-driven and focused on innovation.
 The Writer: A storyteller with a knack for simplifying the complex.
 
-How You Can Use It:
+#### How You Can Use It:
 
 Explore AI Trends: Gain insights into emerging tech.
 
