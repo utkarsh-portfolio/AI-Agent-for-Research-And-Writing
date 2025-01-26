@@ -18,10 +18,10 @@ News Writer: Simplifies complex topics into engaging articles, making tech stori
 
 ### Key Features:
 
-Seamless Task Execution: Choose from "Research Only," "Write Only," or a combined "Full Workflow."
-State-of-the-Art AI: Powered by Google's Gemini language models for reliable, high-quality outputs.
-Customizable Outputs: Automatically formats deliverables (e.g., Markdown reports or blog posts).
-Smart Tools: Integrated with Serper.dev for advanced internet searching capabilities.
+##### Seamless Task Execution: Choose from "Research Only," "Write Only," or a combined "Full Workflow."
+##### State-of-the-Art AI: Powered by Google's Gemini language models for reliable, high-quality outputs.
+##### Customizable Outputs: Automatically formats deliverables (e.g., Markdown reports or blog posts).
+##### Smart Tools: Integrated with Serper.dev for advanced internet searching capabilities.
 
 #### What Sets Us Apart?
 Our agents are designed with memory and role-specific goals:
